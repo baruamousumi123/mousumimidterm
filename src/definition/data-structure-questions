@@ -36,15 +36,30 @@ what is the difference between the HashTable and HashMap?
 HashTable is internally synchronized  and contains unique key. and HashMap allows maximum one null key and any number
 of null values.
 What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
-RDBMS-
+RDBMS-the relational database management system  manages to store,query and retrieve data, Network data model was created to solve the shortcomings of the
+hierarchical database model, this model is capable of handling multiple types of relationships.
 How HashMap works in java?
+Hashmap in Java works on hashing principles. It is a data structure that allows us to store object and retrieve it in constant time o(1),put and get.
 What is ArrayIndexOutOfBoundsException in java? When it occurs?
+It occurs when the programmer tries to access the value of an element in an array at an invalid index.An array is a data structure/container/object that stores a fixed-size sequential collection of elements of the same type.
 What are the different ways of copying an array into another array?
+To copy array items into another array, Invoke the concat() method in the first array and pass the second array as a parameter.
+
 What is difference between an array and a linked list?
+An array is a grouping of data elements of equivalent data type.
+ A linked list is a group of entities called a node
+
 What is DFS and BFS?
+BFS stands for Breadth First Search.BFS is a vertex-based technique for finding the shortest path in the graph
+ DFS stands for Depth First Search.  DFS performs in 2 stages performs two stages, first visited vertices are pushed into the stack, and second if there are no vertices then visited vertices are popped.
 What is Recursion?
+The process in which a function calls itself directly or indirectly is called recursion.
 What are linear and non linear data Structures?
+A Linear data structure is a type of storage which is used to organise and store the data.
+In a non-linear data structure, single level is not involved. It can not traverse all the elements in single run only. Non-linear data structures are not easy to implement in comparison to linear data structure.
 What is Big-(O)-notation?
+Big O is a notation for measuring the complexity of an algorithm. Big O notation mathematically describes the complexity of an algorithm in terms of time and space. We don’t measure the speed of an algorithm in seconds (or minutes!).
+ It measures the rate of growth of an algorithm in the number of operations it takes to complete.
 Outlined different kind of sorting algorithm with time complexity?
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
