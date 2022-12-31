@@ -1,25 +1,42 @@
 Please answer the below Data Structure Questions:
 
 why do we need data structure?
-A.
-
+A.Data structures are the essential building blocks that we uses to organizing data,storing data,managing data
+so that we can access and modify it efficently.
 
 What are the various operations that can be performed on different Data Structures?
+Insertion, deletion,sorting,searching,adding new eliments.
 List out the areas in which data structures are applied extensively?
+Operating System,Database Management,Compiler design,Statistical analysis package so on.
 what is an Array?
+Array is a data structure for sorting more than one data item that has a similar data type.
 what is the difference between the Array and ArrayList?
+An array is a fixed-length data structure. ArrayList is a variable data structure.
 what is LinkedList?
+The linked list class is an ordered collection that contains many objects of the same type.
 How is an Array different from Linked List?
-what is queue?
-what is stack?
-what is FIFO and LIFO?
+An Array is a collection of elements of a similar data type. Linked List is an ordered collection of elements of the
+ same type which each element is connected to the next using pointers.
+what is queue? JavaQueue represemts an ordered list of elements.
+what is stack? A stack is a logical concept that consists of a set of similar elements.
+what is FIFO and LIFO? FIFO-First in, First out.It is a method for handling data structures where the first element
+   is precessed first and the newest element is precessed last.LIFO---Last in First out....a method for handling
+   data structures where the last entered element will be processed first and the first entered element  will be processed last.
 what is the order of complexity?
+O(1),O(log n),O(n), O(n log n), O(n2)
 what is the best case to search an element from an array?
+Binary.Sequential search is the best that we can do when trying to find a value in an unsorted array,
 what is the worst case to search an element from an array?
+The worst case performance is when the search item appears at the end of the list or not at all.
 what is tree in data structure?
+A tree is a hierarchical data structure defined as a collection of nodes(objects or entities).
 what is graph in data structure?
+A graph is a non linear data structure consisting of vertices and edges.
 what is the difference between the HashTable and HashMap?
+HashTable is internally synchronized  and contains unique key. and HashMap allows maximum one null key and any number
+of null values.
 What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+RDBMS-
 How HashMap works in java?
 What is ArrayIndexOutOfBoundsException in java? When it occurs?
 What are the different ways of copying an array into another array?
