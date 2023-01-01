@@ -139,9 +139,10 @@ What is the use of synchronization in Java?
 Synchronization in java multithreading is used if multiple threads share common resources.
 What is Framework?
 A framework is a structure that you can build software on. It serves as a foundation, so you're not starting entirely from scratch.
-
 What are the testing Framework available in java?
+Selenium,Junit,test NG,Mokito,SerenityBDD.
 Difference between jUnit and testNG?
+
 What are the dependencies for this project?
 what is dependency injection in java?
 What is static binding and dynamic binding?
