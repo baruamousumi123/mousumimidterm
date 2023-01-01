@@ -142,10 +142,14 @@ A framework is a structure that you can build software on. It serves as a founda
 What are the testing Framework available in java?
 Selenium,Junit,test NG,Mokito,SerenityBDD.
 Difference between jUnit and testNG?
-
+JUnit is distributed across different modules. All TestNG features come in one module.
 What are the dependencies for this project?
+Dependencies are an important part of project management. They ensure that tasks are executed and in the correct order and that all of the necessary tasks are completed.
 what is dependency injection in java?
-What is static binding and dynamic binding?
+Dependency injection is a technique that allows the client code to be independent from the services it is relying on.
+What is static binding and dynamic binding?Static binding happens when all information needed to call a function is available at the compile-time.
+Dynamic binding happens when the compiler cannot determine all information needed for a function call at compile-time.
+
 
 
 
